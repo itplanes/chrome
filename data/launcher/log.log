@@ -1,0 +1,9 @@
+Aug 19 01:41:08 - [DEBUG] start confirm_xxnet_exit
+Aug 19 01:45:13 - [DEBUG] start confirm_xxnet_exit
+Aug 19 01:45:19 - [INFO] gae_proxy started
+Aug 19 01:45:19 - [INFO] start gae_proxy time cost 5073
+Aug 19 01:45:19 - [INFO] generate desktop shortcut
+Aug 19 01:45:21 - [INFO] need_new_uuid: uuid is empty
+Aug 19 01:45:21 - [INFO] generate uuid:a7013a40-fa6c-43e7-9002-3ccf2bff90fb
+Aug 19 01:45:21 - [INFO] get uuid:a7013a40-fa6c-43e7-9002-3ccf2bff90fb
+Aug 19 01:45:27 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/README.md to E:\Ñ¸À×ÏÂÔØ\XX-Net-2.0.7\data\downloads\README.md
