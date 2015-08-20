@@ -6,7 +6,10 @@ Chrome+XX-Net
 
 下载链接：
 ==========
-https://github.com/yeahwu/wu/releases/download/chrome/CN.GoogleChrome.zip
+本地：https://github.com/yeahwu/wu/releases/download/chrome/CN.GoogleChrome.zip
+
+腾讯微云：http://share.weiyun.com/c3186105c84eb1e313048d6aea7e8024
+注（微云的链接有效期一个星期）
    
   
   主要特性
