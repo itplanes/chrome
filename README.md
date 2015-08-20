@@ -6,10 +6,10 @@ Chrome+XX-Net
 
 下载链接：
 ==========
-本地：https://github.com/yeahwu/wu/releases/download/chrome/CN.GoogleChrome.zip
+* 本地：https://github.com/yeahwu/wu/releases/download/chrome/CN.GoogleChrome.zip
 
-腾讯微云：http://share.weiyun.com/c3186105c84eb1e313048d6aea7e8024
-注（微云的链接有效期一个星期）
+* 腾讯微云：http://share.weiyun.com/c3186105c84eb1e313048d6aea7e8024
+注:（微云的链接有效期一个星期）
    
   
   主要特性
@@ -28,7 +28,7 @@ Chrome+XX-Net
 
 证书问题
 =========
-如果遇到“您的连接不是私密连接”
+*如果遇到“您的连接不是私密连接”
 解决方法：
 找到Data\gae_proxy 目录下的 "CA.crt" 证书，双击打开 - 安装证书 - 下一步 - 选择 “将所有的证书放入下列存储” - 浏览 - 选择 “受信任的根证书发布机构” - 下一步 - 完成。重新启动浏览器。
 
