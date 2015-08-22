@@ -52,6 +52,7 @@ Chrome+XX-Net
 * GoGoTest
 * goagentfindip
 * checkgoogleip
+* PortableApps
 
 
 附图
